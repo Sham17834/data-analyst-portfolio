@@ -77,7 +77,7 @@ End-to-end e-commerce analysis project based on Shopee sales data.
 
 ---
 
-## 3. [Power BI](Power BI)
+## 3. [Power BI](PowerBI)
 Dashboards created for interactive business intelligence.  
 
 - **Projects:**  
