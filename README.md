@@ -53,7 +53,7 @@ The projects demonstrate skills in **SQL, Python, Tableau, and Power BI**, showc
 
 ---
 
-## 1. 1950–2025 Movie Analysis
+## 1. 1950–2025 Movie Analysis(1950-to-2025-Movie-Analysis)
 Analysis of movie data spanning 75 years (1950–2025).  
 
 - **Focus:** Trends in genres, box office revenue, and audience preferences across decades.  
@@ -64,7 +64,7 @@ Analysis of movie data spanning 75 years (1950–2025).
 
 ---
 
-## 2. Shopee Analysis
+## 2. Shopee Analysis(shopee-analysis)
 End-to-end e-commerce analysis project based on Shopee sales data.  
 
 - **Focus:** Customer purchase behavior, product category performance, seasonal sales trends, and seller insights.  
@@ -77,7 +77,7 @@ End-to-end e-commerce analysis project based on Shopee sales data.
 
 ---
 
-## 3. Power BI
+## 3. Power BI(Power BI)
 Dashboards created for interactive business intelligence.  
 
 - **Projects:**  
@@ -88,7 +88,7 @@ Dashboards created for interactive business intelligence.
 
 ---
 
-## 4. Python
+## 4. Python(Pyhton)
 Data analysis and machine learning workflows using Jupyter Notebooks.  
 
 - **Projects:**  
@@ -98,7 +98,7 @@ Data analysis and machine learning workflows using Jupyter Notebooks.
 
 ---
 
-## 5. SQL
+## 5. SQL(SQL)
 Database analysis and ETL examples.  
 
 - **Files:**  
@@ -108,7 +108,7 @@ Database analysis and ETL examples.
 
 ---
 
-## 6. Tableau
+## 6. Tableau(Tableau)
 Visual storytelling through Tableau dashboards.  
 
 - **Projects:**  
