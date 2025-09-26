@@ -120,7 +120,7 @@ Visual storytelling through Tableau dashboards.
 ---
 
 ## 🛠️ Skills Demonstrated
-- **Data Processing & ETL:** SQL, Python (Pandas)  
+- **Data Processing & ETL:** SQL, Python (Pandas, Matplotlib, Seaborn)  
 - **Exploratory Data Analysis:** Python, Jupyter Notebooks  
 - **Visualization & BI Tools:** Tableau, Power BI  
 - **Domain Applications:** E-commerce, Movies, Real Estate, Surveys, Mental Health  
