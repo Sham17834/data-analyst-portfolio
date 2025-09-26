@@ -134,8 +134,5 @@ Visual storytelling through Tableau dashboards.
    [git clone https://github.com/YourUsername/YourRepoName.git](https://github.com/Sham17834/data-analyst-portfolio.git)
 
 ## 📬 Contact
-📧 Email: soonyongsham@gmail.com
-<a href="https://www.linkedin.com/in/sham-soon-yong-6143a0368">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" height="20" />
-  LinkedIn
-</a>
+Email: soonyongsham@gmail.com
+LinkedIn: https://www.linkedin.com/in/sham-soon-yong-6143a0368
