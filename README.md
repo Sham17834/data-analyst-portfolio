@@ -135,4 +135,7 @@ Visual storytelling through Tableau dashboards.
 
 ## 📬 Contact
 📧 Email: soonyongsham@gmail.com
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" />](https://www.linkedin.com/in/sham-soon-yong-6143a0368)
+<a href="https://www.linkedin.com/in/sham-soon-yong-6143a0368">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" height="20" />
+  LinkedIn
+</a>
