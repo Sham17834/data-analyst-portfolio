@@ -29,22 +29,22 @@ The purpose of this repo is to showcase my learning journey and provide reusable
 
 ## 📊 Projects Overview
 
-### 1. 1950–2025 Movie Analysis
+### 1. [1950–2025 Movie Analysis](./1950-to-2025-Movie-Analysis)
 Analyze movie data across decades and explore industry trends.
 
-### 2. Shopee Analysis
+### 2. [Shopee Analysis](./shopee-analysis)
 E-commerce dataset analysis focusing on sales, pricing, and customer insights.
 
-### 3. Power BI
-Dashboards built with Power BI for business intelligence and decision-making.
+### 3. [Power BI](./Power%20BI)
+Dashboards built with Power BI for business intelligence.
 
-### 4. Python
+### 4. [Python](./Python)
 Data analysis, visualization, and machine learning scripts.
 
-### 5. SQL
+### 5. [SQL](./SQL)
 Database queries and ETL (Extract, Transform, Load) examples.
 
-### 6. Tableau
+### 6. [Tableau](./Tableau)
 Visual analytics dashboards for storytelling with data.
 
 ---
