@@ -1,4 +1,18 @@
-# Sham Soon Yong - Data Analyst Portfolio
+# Sham Soon Yong
+
+## 📑 Table of Contents
+- [Project Introduction](#-project-introduction)
+- [Projects Overview](#-projects-overview)
+  - [1950–2025 Movie Analysis](#1-19502025-movie-analysis)
+  - [Shopee Analysis](#2-shopee-analysis)
+  - [Power BI](#3-power-bi)
+  - [Python](#4-python)
+  - [SQL](#5-sql)
+  - [Tableau](#6-tableau)
+- [How to Use](#-how-to-use)
+- [Contact](#-contact)
+
+---
 
 ## 📌 Project Introduction
 This repository contains my data analysis and visualization projects using various tools such as:
@@ -14,14 +28,24 @@ The purpose of this repo is to showcase my learning journey and provide reusable
 ---
 
 ## 📊 Projects Overview
+
 ### 1. 1950–2025 Movie Analysis
 Analyze movie data across decades and explore industry trends.
 
 ### 2. Shopee Analysis
 E-commerce dataset analysis focusing on sales, pricing, and customer insights.
 
-### 3. Power BI, SQL, Python, Tableau
-Hands-on projects using different data tools for business intelligence.
+### 3. Power BI
+Dashboards built with Power BI for business intelligence and decision-making.
+
+### 4. Python
+Data analysis, visualization, and machine learning scripts.
+
+### 5. SQL
+Database queries and ETL (Extract, Transform, Load) examples.
+
+### 6. Tableau
+Visual analytics dashboards for storytelling with data.
 
 ---
 
