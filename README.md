@@ -53,7 +53,7 @@ The projects demonstrate skills in **SQL, Python, Tableau, and Power BI**, showc
 
 ---
 
-## 1. 1950–2025 Movie Analysis(1950-to-2025-Movie-Analysis)
+## 1. [1950–2025 Movie Analysis](1950-to-2025-Movie-Analysis)
 Analysis of movie data spanning 75 years (1950–2025).  
 
 - **Focus:** Trends in genres, box office revenue, and audience preferences across decades.  
