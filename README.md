@@ -72,3 +72,6 @@ Visual analytics dashboards for storytelling with data.
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/YourRepoName.git
+
+##📬 Contact
+📧 Email: soonyongsham@gmail.com
