@@ -1,4 +1,4 @@
-# Sham Soon Yong
+# Sham Soon Yong - Data Analyst Portfolio
 
 ## 📌 Project Introduction
 This repository contains my data analysis and visualization projects using various tools such as:
