@@ -1,6 +1,7 @@
 # Sham Soon Yong
 
 ## 📑 Table of Contents
+- [About Me](#-about-me)
 - [Project Introduction](#-project-introduction)
 - [Projects Overview](#-projects-overview)
   - [1950–2025 Movie Analysis](#1-19502025-movie-analysis)
