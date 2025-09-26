@@ -131,7 +131,7 @@ Visual storytelling through Tableau dashboards.
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/YourUsername/YourRepoName.git](https://github.com/Sham17834/data-analyst-portfolio.git)
+   [https://github.com/Sham17834/data-analyst-portfolio.git]
 
 ## 📬 Contact
 Email: soonyongsham@gmail.com
