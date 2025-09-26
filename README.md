@@ -14,6 +14,24 @@
 
 ---
 
+## 👨‍💻 About Me
+Hi, I'm **Sham Soon Yong**!  
+I am passionate about **data analysis, business intelligence, and visualization**.  
+This GitHub repository is a place where I share my projects, learning journey, and experiments with different tools.
+
+### 🔧 Skills
+- **Programming & Data**: Python, SQL, Jupyter Notebook  
+- **Business Intelligence Tools**: Power BI, Tableau  
+- **Data Analysis**: Data cleaning, data visualization, statistical analysis, trend analysis  
+- **Others**: Problem-solving, storytelling with data
+
+### 🎯 Goals
+- To continuously improve my data analysis & visualization skills  
+- To explore real-world datasets and share insights  
+- To build a portfolio that demonstrates my growth and capabilities  
+
+---
+
 ## 📌 Project Introduction
 This repository contains my data analysis and visualization projects using various tools such as:
 - **Python** (Data Cleaning, Analysis, Visualization, Machine Learning)
